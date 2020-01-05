@@ -1,0 +1,13 @@
+,b'timestamp',b'remote_host',b'remote_user',b'request_method',b'request_url_path',b'prefix0',b'prefix1',b'prefix2',b'status'
+0,2016-12-04 04:24:31,b'104.223.44.126',b'user1',b'GET',b’/project/1.html’,b’/',b’/project/’,b’/project/1.html’,allow
+1,2016-12-04 04:27:47,b'123.126.113.131',b'user2',b'GET',b’/project/2.html’,b’/',b’/project/’,b’/project/2.html’,deny
+2,2016-12-04 04:39:28,b'68.180.230.30',b'user1',b'GET',b’/project/3.html’,b’/',b’/project/’,b’/project/3.html’,allow
+3,2016-12-04 04:50:15,b'40.77.167.73',b'user2',b'GET',b’/project/4.html’,b’/',b’/project/’,b’/project/4.html’,deny
+4,2016-12-04 04:54:30,b'180.76.15.19',b'user1',b'GET',b’/project/1.html’,b’/',b’/project/’,b’/project/1.html’,allow
+5,2016-12-04 04:55:11,b'180.76.15.19',b'user2',b'GET',b’/project/2.html’,b’/',b’/project/’,b’/project/2.html’,deny
+6,2016-12-04 05:03:36,b'23.105.159.84',b'user1',b'GET',b’/project/3.html’,b’/',b’/project/’,b’/project/3.html’,deny
+7,2016-12-04 05:08:32,b'93.56.74.218',b'user2',b'GET',b’/project/4.html’,b’/',b’/project/’,b’/project/4.html’,deny
+8,2016-12-04 05:10:22,b'28.15.152.81',b'user1',b'GET',b’/project/1.html’,b’/',b’/project/’,b’/project/3.html’,deny
+9,2016-12-04 05:11:32,b'193.16.14.28',b'user2',b'GET',b’/project/2.html’,b’/',b’/project/’,b’/project/4.html’,deny
+10,2016-12-04 05:12:22,b'28.11.112.31',b'user1',b'GET',b’/project/3.html’,b’/',b’/project/’,b’/project/3.html’,allow
+11,2016-12-04 05:13:32,b'19.16.124.29',b'user1',b'GET',b’/project/4.html’,b’/',b’/project/’,b’/project/4.html’,allow
