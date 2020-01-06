@@ -18,4 +18,18 @@ python setup.py install --user
 
 
 ## Usage
-Please look into example.ipynb or example.py for how to use tcdt. 
+Please look into example.ipynb or example.py for how to use tcdt.
+
+## Reference
+If you would like to use this tool, please cite our paper.
+
+```
+@inproceedings{xiang2019towards,
+  title={Towards Continuous Access Control Validation and Forensics},
+  author={Xiang, Chengcheng and Wu, Yudong and Shen, Bingyu and Shen, Mingyao and Huang, Haochen and Xu, Tianyin and Zhou, Yuanyuan and Moore, Cindy and Jin, Xinxin and Sheng, Tianwei},
+  booktitle={Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={113--129},
+  year={2019},
+  organization={ACM}
+}
+```
