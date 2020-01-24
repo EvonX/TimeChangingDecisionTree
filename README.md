@@ -15,6 +15,11 @@ This makes previous entropy or gini-based decision tree learning algorithms less
 ```
 python setup.py install --user
 ```
+or
+
+```
+pip install tcdt
+```
 
 
 ## Usage
